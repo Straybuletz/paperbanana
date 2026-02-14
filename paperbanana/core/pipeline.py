@@ -310,9 +310,7 @@ class PaperBananaPipeline:
 
         # Final output
         final_image = iterations[-1].image_path
-        output_format = getattr(
-            self.settings, "output_format", "png"
-        ).lower()
+        output_format = getattr(self.settings, "output_format", "png").lower()
         ext = "jpg" if output_format == "jpeg" else output_format
         final_output_path = str(self._run_dir / f"final_output.{ext}")
 

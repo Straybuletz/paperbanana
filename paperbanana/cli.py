@@ -51,9 +51,7 @@ def generate(
 ):
     """Generate a methodology diagram from a text description."""
     if format not in ("png", "jpeg", "webp"):
-        console.print(
-            f"[red]Error: Format must be png, jpeg, or webp. Got: {format}[/red]"
-        )
+        console.print(f"[red]Error: Format must be png, jpeg, or webp. Got: {format}[/red]")
         raise typer.Exit(1)
 
     # Load source text
@@ -126,7 +124,7 @@ def generate(
 
 
 @app.command()
-def     plot(
+def plot(
     data: str = typer.Option(..., "--data", "-d", help="Path to data file (CSV or JSON)"),
     intent: str = typer.Option(..., "--intent", help="Communicative intent for the plot"),
     output: Optional[str] = typer.Option(None, "--output", "-o", help="Output image path"),
@@ -141,9 +139,7 @@ def     plot(
 ):
     """Generate a statistical plot from data."""
     if format not in ("png", "jpeg", "webp"):
-        console.print(
-            f"[red]Error: Format must be png, jpeg, or webp. Got: {format}[/red]"
-        )
+        console.print(f"[red]Error: Format must be png, jpeg, or webp. Got: {format}[/red]")
         raise typer.Exit(1)
 
     data_path = Path(data)
